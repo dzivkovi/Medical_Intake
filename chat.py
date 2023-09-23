@@ -1,10 +1,7 @@
-import re
 import openai
-from time import time, sleep
+from time import time
 from halo import Halo
 import textwrap
-import yaml
-
 
 ###     file operations
 
@@ -84,7 +81,7 @@ if __name__ == '__main__':
     notes, tokens = chatbot(conversation)
     print('\n\nNotes version of conversation:\n\n%s' % notes)
     save_file('logs/log_%s_notes.txt' % time(), notes)
-    
+
     ## GENERATING REPORT
 
     print('\n\nGenerating Hypothesis Report')
