@@ -1,0 +1,21 @@
+## SENSES
+
+SIGHT: Observe the patient's facial expressions and body language during the conversation. Look for any signs of confusion, difficulty focusing, or sudden pauses in their responses. This could indicate a transient cognitive impairment, which may be related to their reported episodes.
+
+SOUND: Listen for any changes in the patient's speech pattern, such as slurring, hesitations, or difficulty finding words. This could provide clues about potential neurological issues.
+
+TOUCH: During physical examination, assess the patient's muscle tone, strength, and coordination. Any abnormalities could suggest a neurological condition.
+
+SMELL: Not applicable in this case as the patient does not report any changes in smell before, during, or after the episodes.
+
+## EXAMINATION
+
+- NEUROLOGICAL EXAM: Assess the patient's cognitive function, motor skills, and sensory abilities. This can help identify any neurological abnormalities that might be causing the episodes. Look for signs of confusion, difficulty with coordination or balance, and changes in muscle tone or strength.
+- CARDIOVASCULAR EXAM: Check the patient's heart rate and blood pressure. Sudden changes in these parameters could cause transient cognitive impairment. Also, consider an EKG to rule out any cardiac arrhythmias that could be causing transient ischemic attacks.
+- SLEEP ASSESSMENT: Given the patient's report of increased frequency of episodes with less sleep, a sleep assessment may be beneficial. Look for signs of sleep disorders such as insomnia or sleep apnea, which could contribute to the patient's symptoms.
+
+## INTERVIEW
+
+- UNDERSTANDING THE EPISODES: "Can you describe in detail what happens during these episodes? Do you feel like you're 'zoning out' or do you lose consciousness completely?"
+- IMPACT OF SLEEP: "How does your sleep pattern affect these episodes? Do you notice them happening more frequently or becoming more severe when you've had less sleep?"
+- MEDICATION INTERACTIONS: "Have you noticed any correlation between taking your cholesterol medication and the occurrence of these episodes?"

@@ -1,0 +1,127 @@
+<<BEGIN PATIENT INTAKE CHAT>>
+
+PATIENT: my friends say that I sometimes freeze up. for about 20 seconds. For me it's just a blink but everyone is freaking out. I'm in my 80's btw. I just call it a bad senior moment.
+
+INTAKE: When you "freeze up", do you experience any other symptoms such as confusion, difficulty speaking, or loss of balance?
+
+PATIENT: Only a bit confused afterwards, but mostly at why everyone else is upset
+
+INTAKE: Can you describe in more detail what you feel during these moments of confusion? For example, do you have trouble remembering what happened right before the episode, or do you feel disoriented in any way?
+
+PATIENT: A bit out of it, to be honest. I have trouble finding the right words after I snap out of it. But nothing out of the ordinary for a senior moment
+
+INTAKE: When you say you have trouble finding the right words, do you mean you struggle to form sentences, or is it more about forgetting specific words?
+
+PATIENT: struggle to form sentences
+
+INTAKE: Do you notice any patterns or triggers that seem to precede these episodes, such as stress, lack of sleep, or certain activities?
+
+PATIENT: lack of sleep
+
+INTAKE: How often do you experience these episodes and have you noticed an increase in frequency when you've had less sleep?
+
+PATIENT: Often
+
+INTAKE: Could you please specify how often these episodes occur? For example, multiple times a day, a few times a week, or once a month?
+
+PATIENT: once per month, but they happen in the middle of the day when I'm most active
+
+INTAKE: During these episodes, do you remain aware of your surroundings or do you lose consciousness?
+
+PATIENT: not aware of my surroundings during these episodes
+
+INTAKE: Do you experience any physical sensations before these episodes occur, such as dizziness, a strange taste or smell, or a feeling of déjà vu?
+
+PATIENT: not that I'm aware of no
+
+INTAKE: Have you ever had a head injury, stroke, or any neurological conditions diagnosed in the past?
+
+PATIENT: not that I'm aware of no
+
+INTAKE: Do you have any family history of neurological conditions such as epilepsy, stroke, or dementia?
+
+PATIENT: not that I'm aware of no
+
+INTAKE: Do these episodes affect your ability to perform daily activities or tasks? For example, have you ever frozen up while walking, cooking, or doing something else that could potentially be dangerous?
+
+PATIENT: not yet, just when talking
+
+INTAKE: Do you experience any symptoms after these episodes, such as fatigue, headache, or muscle weakness?
+
+PATIENT: little fatigue, but nothing major
+
+INTAKE: Do you have any other existing health conditions or are you currently on any medication?
+
+PATIENT: cholesterol pills only
+
+INTAKE: Have you noticed any changes in your mood, behavior, or cognitive abilities (like memory or problem-solving) around the time these episodes started occurring?
+
+PATIENT: no
+
+INTAKE: Have you ever sought medical attention for these episodes? If so, what was the outcome of that consultation?
+
+PATIENT: no
+
+INTAKE: Do you experience any warning signs before these episodes occur, such as a sudden sense of fear, anxiety, or an unusual feeling in your stomach?
+
+PATIENT: no
+
+INTAKE: Have you noticed any changes in your vision or hearing during or after these episodes? For example, blurriness, double vision, or muffled sounds?
+
+PATIENT: no
+
+INTAKE: Do you have any difficulty with coordination or balance after these episodes? For example, do you find it hard to walk straight or pick up objects?
+
+PATIENT: no
+
+INTAKE: Have you noticed any changes in your sleep patterns or quality of sleep around the time these episodes started occurring?
+
+PATIENT: no
+
+INTAKE: Do you experience any involuntary movements during these episodes, such as twitching, jerking, or stiffening of muscles?
+
+PATIENT: no
+
+INTAKE: Do you have any difficulty swallowing or speaking after these episodes? For example, does your voice sound slurred or do you choke on food or drink?
+
+PATIENT: no
+
+INTAKE: Do you experience any changes in your senses, such as taste, smell, or touch, during or after these episodes?
+
+PATIENT: no
+
+INTAKE: Do you experience any changes in your breathing during or after these episodes, such as shortness of breath or difficulty breathing?
+
+PATIENT: no
+
+INTAKE: Do you experience any changes in your heart rate or rhythm during or after these episodes, such as palpitations or a feeling that your heart is racing?
+
+PATIENT: no
+
+INTAKE: Do you experience any changes in your bowel or bladder function during or after these episodes, such as incontinence or constipation?
+
+PATIENT: no
+
+INTAKE: Do you experience any changes in your skin during or after these episodes, such as sweating, flushing, or paleness?
+
+PATIENT: no
+
+INTAKE: Do you experience any changes in your mood or emotions during or after these episodes, such as feeling unusually happy, sad, or irritable?
+
+PATIENT: no
+
+INTAKE: Do you experience any changes in your appetite or weight during or after these episodes?
+
+PATIENT: no
+
+INTAKE: Do you experience any changes in your level of alertness or consciousness during or after these episodes, such as feeling unusually alert, drowsy, or confused?
+
+PATIENT: no
+
+INTAKE: Do you experience any changes in your ability to think, concentrate, or make decisions during or after these episodes?
+
+PATIENT: no
+
+INTAKE: Do you experience any changes in your sense of time during these episodes? For example, does time seem to speed up or slow down?
+
+<<END PATIENT INTAKE CHAT>>

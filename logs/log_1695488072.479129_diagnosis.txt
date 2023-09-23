@@ -1,0 +1,19 @@
+1. TRANSIENT ISCHEMIC ATTACK (TIA): Often referred to as a "mini-stroke," a TIA is a temporary period of symptoms similar to those of a stroke.
+   - DIFFERENTIALS: Stroke, seizure, syncope, migraine, metabolic disorders.
+   - DEMOGRAPHICS: More common in older adults, particularly those with high cholesterol or other cardiovascular risk factors.
+   - SYMPTOMS: Sudden confusion, trouble speaking or understanding speech, dizziness, loss of balance or coordination, sudden severe headache.
+   - INDICATORS: Patient's age, episodes of confusion and difficulty forming sentences, slight fatigue after episodes.
+   - CONTRAINDICATORS: Lack of physical sensations before episodes, no reported changes in vision, hearing, coordination, balance, or involuntary movements.
+   - PROGNOSIS: TIAs often warn of a future stroke. Without treatment, there's about a 1 in 3 chance of having a stroke within a year.
+   - TREATMENT: Lifestyle changes, medications to prevent blood clots, and possibly surgery.
+   - TESTS: Brain imaging with a CT scan or MRI, carotid ultrasonography, echocardiography, blood tests.
+
+2. COMPLEX PARTIAL SEIZURES: These are seizures that affect a larger part of the brain than simple partial seizures and can cause loss of awareness or consciousness.
+   - DIFFERENTIALS: Simple partial seizures, absence seizures, generalized tonic-clonic seizures.
+   - DEMOGRAPHICS: Can occur at any age, but more common in people with a history of brain injury, brain infection, stroke, or brain tumor.
+   - SYMPTOMS: Loss of awareness or consciousness, confusion, inability to respond to others, staring, automatisms (such as lip smacking, chewing, or swallowing).
+   - INDICATORS: Episodes of "freezing up," confusion and difficulty forming sentences after episodes, no physical sensations before episodes.
+   - CONTRAINDICATORS: No family history of neurological conditions, no reported changes in mood, behavior, or cognitive abilities.
+   - PROGNOSIS: With treatment, many people with complex partial seizures will have fewer seizures. Some may stop having seizures entirely.
+   - TREATMENT: Anti-seizure medications, surgery, vagus nerve stimulation, dietary therapy.
+   - TESTS: Electroencephalogram (EEG), MRI, CT scan, positron emission tomography (PET), single-photon emission computerized tomography (SPECT).
